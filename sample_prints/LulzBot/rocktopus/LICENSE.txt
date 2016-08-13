@@ -1,0 +1,8 @@
+Rocktopus by Kent Johnson is licensed under the Creative Commons - Attribution - Share Alike v4.0  International license 
+
+http://creativecommons.org/licenses/by-sa/4.0/
+
+Derived from:
+
+* Sign of the Horns by dietz1, licensed under the GNU - GPL license.
+* Bucket O' Octopi by yeoldebrian, licensed under the Creative Commons - Attribution - Share Alike v3.0 license.

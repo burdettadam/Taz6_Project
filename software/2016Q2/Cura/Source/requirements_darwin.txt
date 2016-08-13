@@ -1,0 +1,6 @@
+setuptools
+py2app
+pyserial
+PyOpenGL
+numpy
+power

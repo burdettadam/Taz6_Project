@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="612pt"
+   height="792pt"
+   id="svg2995"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="safety_warnings_TAZ_6.svg">
+  <defs
+     id="defs2997" />
+  <sodipodi:namedview
+     inkscape:document-units="in"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0710075"
+     inkscape:cx="530.53339"
+     inkscape:cy="610.72166"
+     inkscape:current-layer="layer3"
+     id="namedview2999"
+     showgrid="true"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="in"
+     inkscape:window-width="1879"
+     inkscape:window-height="1022"
+     inkscape:window-x="41"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4440"
+       units="in"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.1in"
+       spacingy="0.1in" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="765.00855,990"
+       id="guide4442" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="686.63241,599.18128"
+       id="guide3992" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3001">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3910"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Outage;-inkscape-font-specification:Outage Bold"><flowRegion
+         id="flowRegion3912"><rect
+           id="rect3914"
+           width="579.55127"
+           height="170.25394"
+           x="53.311836"
+           y="40.70536"
+           style="font-size:72px" /></flowRegion><flowPara
+         id="flowPara3916" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3918"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Outage;-inkscape-font-specification:Outage Bold"><flowRegion
+         id="flowRegion3920"><rect
+           id="rect3922"
+           width="524.51965"
+           height="233.88419"
+           x="37.834206"
+           y="38.985626"
+           style="font-size:72px" /></flowRegion><flowPara
+         id="flowPara3924" /></flowRoot>    <g
+       id="g4446">
+      <rect
+         y="27"
+         x="27"
+         height="936"
+         width="711"
+         id="rect3930"
+         style="color:#000000;fill:#484848;fill-opacity:1;stroke:none;stroke-width:0.89999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="45"
+         x="45"
+         height="900"
+         width="675"
+         id="rect4444"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.32740021px;line-height:125%;font-family:Outage;-inkscape-font-specification:'Outage Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+       x="89"
+       y="133.36845"
+       id="text3926"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3928"
+         x="89"
+         y="133.36845"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:24.98220062px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1">LulzBot TAZ 6 3D Printer</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4522"
+       y="95.005569"
+       x="64.192017"
+       style="font-size:13.28682899px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none;font-family:Outage;-inkscape-font-specification:Outage Bold"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1"
+         y="95.005569"
+         x="64.192017"
+         id="tspan4524"
+         sodipodi:role="line">Safety and Warnings</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4568"
+       y="95"
+       x="417"
+       style="font-size:8.32740021px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Outage;-inkscape-font-specification:Outage Bold"
+       xml:space="preserve"><tspan
+         style="font-size:24.98220062px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Montserrat;-inkscape-font-specification:Montserrat"
+         y="95"
+         x="417"
+         id="tspan4570"
+         sodipodi:role="line" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer#1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4526"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Outage;font-style:normal;font-weight:bold;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Outage Bold;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4528"><rect
+           id="rect4530"
+           width="281.73785"
+           height="120.42912"
+           x="102.75146"
+           y="306.09515" /></flowRegion><flowPara
+         id="flowPara4532" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4540"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Outage;font-style:normal;font-weight:bold;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Outage Bold;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4542"><rect
+           id="rect4544"
+           width="16.572815"
+           height="53.033009"
+           x="157.99417"
+           y="323.77283" /></flowRegion><flowPara
+         id="flowPara4546" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4548"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Outage;font-style:normal;font-weight:bold;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Outage Bold;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion4550"><rect
+           id="rect4552"
+           width="41.984467"
+           height="38.669903"
+           x="720.36505"
+           y="317.14371" /></flowRegion><flowPara
+         id="flowPara4554" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4556"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.66651058px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+       transform="matrix(1.0372444,0,0,1.0372444,-253.50592,-41.652378)"><flowRegion
+         id="flowRegion4558"><rect
+           id="rect4560"
+           width="584.40527"
+           height="64.301651"
+           x="319.30292"
+           y="215.4971"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.66651058px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+           ry="0" /></flowRegion><flowPara
+         id="flowPara4564"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15.66651058px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1">The LulzBot TAZ 6 3D printer has motorized and heated parts. Always be aware of possible hazards when the 3D printer is operational. </flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4590"
+       width="692.44757"
+       height="6.3759708"
+       x="36"
+       y="162.20972" />
+    <g
+       id="g3149"
+       transform="translate(0,142)">
+      <g
+         id="g3756"
+         transform="matrix(0.18468716,0,0,0.18468716,81.108449,232.43659)">
+        <path
+           id="path1875"
+           d="M 299.09375,-8 C 285.2752,-7.992418 276.97358,5.3760798 271.875,16.53125 179.06241,177.95887 85.093615,338.77609 -7,500.5625 c -5.655568,16.18075 10.5954928,34.34286 27.3125,31.03037 189.5995,-0.27255 379.23688,0.62426 568.8125,-0.49912 16.59057,-3.16375 24.67537,-26.14951 13.37438,-38.92817 C 507.36358,328.05043 413.40661,163.19507 317.5,-0.4375 312.77524,-5.3226321 305.97101,-8.3168021 299.09375,-8 Z"
+           style="fill:#ffffff;fill-opacity:1"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g4">
+          <path
+             id="sign_border-1"
+             d="M 597.6,499.6 313.8,8 C 310.9,3 305.6,0 299.9,0 294.2,0 288.9,3.1 286,8 L 2.2,499.6 c -2.9,5 -2.9,11.1 0,16 2.9,5 8.2,8 13.9,8 l 567.6,0 c 5.7,0 11,-3.1 13.9,-8 2.9,-5 2.9,-11.1 0,-16 z"
+             inkscape:connector-curvature="0"
+             style="fill:#484848;fill-opacity:1" />
+          <polygon
+             points="43.9,491.5 299.9,48.2 555.9,491.5 43.9,491.5 "
+             id="sign_bg-5"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <path
+           sodipodi:nodetypes="cccccccccccc"
+           id="path1933"
+           d="m 279.93365,165.58262 -50.51092,171.94072 73.87885,-38.09379 -15.80744,115.72278 -15.10334,-22.05969 11.64027,72.56433 42.35765,-61.18092 -21.4523,13.33856 44.53945,-163.98217 -79.65065,43.86557 58.29504,-132.17388 -48.18661,0.0585 z"
+           style="fill:#484848;fill-opacity:1;fill-rule:evenodd;stroke:#484848;stroke-width:1.04826057px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4592"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+         transform="matrix(0.97306022,0,0,0.97306022,-85.435857,45.997688)"><flowRegion
+           id="flowRegion4594"><rect
+             id="rect4596"
+             width="474.42047"
+             height="188.41568"
+             x="319.30292"
+             y="215.4971"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+             ry="0" /></flowRegion><flowPara
+           id="flowPara4604"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.13067722px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1">Always power down and unplug your 3D printer before connecting or disconnecting wiring harnesses or opening the electronics enclosure. </flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.13067722px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1"
+           id="flowPara4282">Never open the external power supply enclosure. The power supply can cause harm from electric shock even when powered down and unplugged.  </flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4612"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+         transform="matrix(1.321966,0,0,1.321966,-197.48702,-57.98703)"><flowRegion
+           id="flowRegion4614"><rect
+             id="rect4616"
+             width="584.40527"
+             height="64.301651"
+             x="319.30292"
+             y="215.4971"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+             ry="0" /></flowRegion><flowPara
+           id="flowPara4618"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.19280815px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1">Electric Shock Hazard</flowPara></flowRoot>    </g>
+    <g
+       id="g3129"
+       transform="translate(0,-104)">
+      <g
+         id="g3898"
+         transform="matrix(0.18438813,0,0,0.18438813,81.349456,348.10528)">
+        <g
+           id="g4-1">
+          <path
+             style="fill:#484848;fill-opacity:1"
+             id="sign_border-2"
+             d="M 597.6,499.6 313.8,8 C 310.9,3 305.6,0 299.9,0 294.2,0 288.9,3.1 286,8 L 2.2,499.6 c -2.9,5 -2.9,11.1 0,16 2.9,5 8.2,8 13.9,8 l 567.6,0 c 5.7,0 11,-3.1 13.9,-8 2.9,-5 2.9,-11.1 0,-16 z"
+             inkscape:connector-curvature="0" />
+          <polygon
+             points="555.9,491.5 43.9,491.5 43.9,491.5 299.9,48.2 "
+             id="sign_bg-3"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           transform="matrix(1.166706,0,0,1.166706,476.1151,91.09747)"
+           id="g4621">
+          <rect
+             style="fill:#484848;fill-opacity:1;stroke:#484848;stroke-width:0.54666322;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             id="rect2820"
+             width="219.04733"
+             height="13.535434"
+             x="-260.56006"
+             y="310.6998" />
+          <g
+             id="g4604"
+             transform="translate(-0.859792,0)"
+             style="stroke:#484848;stroke-width:0.85711396;stroke-opacity:1">
+            <path
+               sodipodi:nodetypes="cc"
+               id="path3713"
+               d="m -204.73685,291.49038 c 48.73755,-69.681 -50.10768,-103.15136 -0.39147,-172.44089"
+               style="fill:none;stroke:#484848;stroke-width:12.14807129;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#484848;stroke-width:12.14807129;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m -149.73685,291.49038 c 48.73755,-69.681 -50.10768,-103.15136 -0.39147,-172.44089"
+               id="path4600"
+               sodipodi:nodetypes="cc"
+               inkscape:connector-curvature="0" />
+            <path
+               sodipodi:nodetypes="cc"
+               id="path4602"
+               d="m -94.73685,291.49038 c 48.73755,-69.681 -50.10768,-103.15136 -0.39147,-172.44089"
+               style="fill:none;stroke:#484848;stroke-width:12.14807129;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+      <flowRoot
+         transform="matrix(0.97306022,0,0,0.97306022,-85.050777,157.65049)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold"
+         id="flowRoot4620"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4622"><rect
+             ry="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#484848;fill-opacity:1;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold"
+             y="215.4971"
+             x="319.30292"
+             height="180.87801"
+             width="474.42047"
+             id="rect4624" /></flowRegion><flowPara
+           id="flowPara4658"
+           style="font-size:14.13067734px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold'">Never touch the extruder nozzle or heater block without first turning off the hot end and allowing it to completely cool down. The hot end can take up to 20 minutes to completely cool. Never touch recently extruded plastic. The plastic can stick to your skin and cause burns. The heated bed and stepper motors can reach high temperatures that are capable of causing burns.</flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.6325987,0,0,1.6325987,-296.5804,-10.635044)"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold"
+         id="flowRoot4628"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4630"><rect
+             ry="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#484848;fill-opacity:1;font-family:Montserrat;-inkscape-font-specification:Montserrat Bold"
+             y="215.4971"
+             x="319.30292"
+             height="64.301651"
+             width="584.40527"
+             id="rect4632" /></flowRegion><flowPara
+           style="font-size:11.49235821px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1;font-family:Titillium;-inkscape-font-specification:'Titillium Bold'"
+           id="flowPara4634">Burn Hazard</flowPara></flowRoot>    </g>
+    <g
+       id="g3165"
+       transform="translate(0,24)">
+      <g
+         id="g3769"
+         transform="matrix(0.18493061,0,0,0.18493061,80.7872,469.81286)">
+        <g
+           id="g4-8">
+          <path
+             style="fill:#484848;fill-opacity:1"
+             id="sign_border-3"
+             d="M 597.6,499.6 313.8,8 C 310.9,3 305.6,0 299.9,0 294.2,0 288.9,3.1 286,8 L 2.2,499.6 c -2.9,5 -2.9,11.1 0,16 2.9,5 8.2,8 13.9,8 l 567.6,0 c 5.7,0 11,-3.1 13.9,-8 2.9,-5 2.9,-11.1 0,-16 z"
+             inkscape:connector-curvature="0" />
+          <polygon
+             points="43.9,491.5 43.9,491.5 299.9,48.2 555.9,491.5 "
+             id="sign_bg-0"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           style="fill:#484848;fill-opacity:1"
+           id="g2863">
+          <path
+             style="fill:#484848;fill-opacity:1;fill-rule:evenodd;stroke:#484848;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 290.0048,194.42098 c -11.70554,3.48002 -6.06367,69.5758 -11.71875,61.375 -0.9491,-4.11276 -14.23938,-21.83183 -22.78125,-20.25 0,0 12.03286,19.92074 -6,72.4375 0,0 -7.27481,-20.8518 -18.03125,-22.75 0,0 -2.23483,50.28287 -6.03125,62.9375 0,0 -1.55995,-2.85244 -12,-9.8125 -4.32427,22.95371 -11.72178,125.95772 65.46875,111.375 -12.97101,-5.69459 -36.35987,-26.89529 -40.15625,-63.59375 0,0 6.31281,2.85181 8.84375,4.75 0.80035,0.60026 6.65271,-31.00838 9.5,-35.4375 0,0 6.01771,47.14947 22.46875,55.375 0,0 -9.51449,-35.45553 -0.65625,-54.4375 0,0 9.17268,25.96522 15.5,28.8125 0,0 18.04219,-27.21196 12.03125,-66.125 0,0 26.88112,31.94909 13.59375,61.6875 -0.53212,1.19094 15.18783,-14.24356 17.71875,-25 0,0 6.96424,10.13982 2.21875,34.5 -0.24197,1.24212 7.59795,-3.18783 9.8125,-5.71875 0,0 0.94298,41.1472 -48.09375,62.34375 15.8472,13.47012 99.99033,0.9388 85.4375,-81 -3.60426,9.01064 -10.125,14.87499 -10.125,14.875 -1.8982,-17.7165 21.80896,-54.4259 -6.03125,-86.0625 0,0 -6.00837,20.57829 -10.4375,21.84375 0,0 -11.70168,-70.87499 -31,-70.875 0,0 0.31992,23.09795 -2.84375,25.3125 0,0 -15.51288,-47.44169 -24.6875,-49.65625 -4.9064,-3.85503 -12,-26.90625 -12,-26.90625 z m 8.53125,67.71875 c -0.31636,11.38918 1.26095,12.95812 -4.75,21.5 -0.54642,-4.84098 -0.65666,-21.66152 4.75,-21.5 z"
+             id="path1933-4"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="fill:#484848;fill-opacity:1;stroke:#000000;stroke-width:0.63779527;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.4"
+             id="rect1935"
+             width="118.3209"
+             height="6.6436872"
+             x="235.58138"
+             y="454.47574" />
+        </g>
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4636"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+         transform="matrix(0.97306022,0,0,0.97306022,-85.050777,281.57078)"><flowRegion
+           id="flowRegion4638"><rect
+             id="rect4640"
+             width="473.84067"
+             height="140.87036"
+             x="319.30292"
+             y="215.4971"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+             ry="0" /></flowRegion><flowPara
+           id="flowPara4668"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.13067722px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1">Never place flammable materials or liquids on or near the 3D printer when it is powered on or operational.</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4644"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+         transform="matrix(1.6325987,0,0,1.6325987,-296.19532,112.64506)"><flowRegion
+           id="flowRegion4646"><rect
+             id="rect4648"
+             width="584.40527"
+             height="64.301651"
+             x="319.30292"
+             y="215.4971"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+             ry="0" /></flowRegion><flowPara
+           id="flowPara4650"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.49235821px;line-height:125%;font-family:Titillium, '-Bold';-inkscape-font-specification:'Titillium, -Bold Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1">Fire Hazard</flowPara></flowRoot>    </g>
+    <g
+       id="g4298"
+       transform="translate(0,6)">
+      <g
+         id="g3774"
+         transform="matrix(0.18508124,0,0,0.18508124,65.823517,548.51507)">
+        <path
+           transform="translate(80.226893,296.01179)"
+           d="M 597.6,499.6 313.8,8 C 310.9,3 305.6,0 299.9,0 294.2,0 288.9,3.1 286,8 L 2.2,499.6 c -2.9,5 -2.9,11.1 0,16 2.9,5 8.2,8 13.9,8 l 567.6,0 c 5.7,0 11,-3.1 13.9,-8 2.9,-5 2.9,-11.1 0,-16 z"
+           id="sign_border"
+           inkscape:connector-curvature="0"
+           style="fill:#484848;fill-opacity:1" />
+        <polygon
+           transform="translate(80.226893,296.01179)"
+           points="299.9,48.2 555.9,491.5 43.9,491.5 43.9,491.5 "
+           style="fill:#ffffff;fill-opacity:1"
+           id="sign_bg" />
+        <g
+           id="g2173"
+           style="fill:#484848;fill-opacity:1">
+          <g
+             transform="matrix(1.8951126,0,0,1.9509158,-715.42911,-386.30459)"
+             style="fill:#484848;fill-opacity:1"
+             id="g3134">
+            <rect
+               width="85.014748"
+               height="5.9583478"
+               x="499.66782"
+               y="583.30164"
+               style="fill:#484848;fill-opacity:1;stroke:none"
+               id="rect2241" />
+            <rect
+               width="70.618782"
+               height="6.531991"
+               x="507.83804"
+               y="519.75708"
+               style="fill:#484848;fill-opacity:1;stroke:none"
+               id="rect2239" />
+            <path
+               d="m 526.13835,504.36218 0,-14 13,12 0,-38 9,0 0,38 13,-12 0,14 -17.49856,14 -17.50144,-14 z"
+               style="fill:#484848;fill-opacity:1;fill-rule:evenodd;stroke:none"
+               id="path2326"
+               inkscape:connector-curvature="0" />
+          </g>
+          <path
+             d="m 387.97157,621.86925 c -0.99939,0.19908 -2.12169,3.06111 -2.40734,4.77626 0.0987,4.97235 0.0195,4.93246 1.16215,7.60039 1.29588,2.61179 5.12852,4.66964 9.08982,7.18517 12.67246,8.04723 20.1719,6.89442 20.1719,6.8944 0.11609,0.0332 2.3037,0.55617 2.73938,0.6645 0.0432,1.27157 -0.17941,2.5054 -0.78861,3.69642 l -105.09313,0 c -5.31459,0 -9.58788,4.31755 -9.58788,9.63553 0,5.31802 4.2733,9.59402 9.58788,9.59402 l 86.95503,0 c 0.80426,1.94282 0.61235,3.89108 -0.58108,5.64841 l -101.52363,0 c -5.3146,0 -9.62941,4.27606 -9.62941,9.594 0,5.31802 4.31485,9.594 9.62941,9.594 l 92.22628,0 c 1.211,1.80563 2.03554,3.29566 2.32432,4.61013 l -86.2079,0 c -5.31461,0 -9.58788,4.27608 -9.58788,9.594 0,5.31802 4.27331,9.59406 9.58788,9.59406 l 96.41839,0 c 0.88988,1.23167 1.28132,2.57027 0.91314,4.02862 l -66.6171,0 c -4.68608,0 -8.46723,3.78358 -8.46723,8.47263 0,4.68905 3.78117,8.47261 8.46723,8.47263 l 77.74069,0 c 7.70139,2.373 16.50345,4.5453 24.69606,5.39926 8.30986,0 57.07763,-2.36053 63.7947,-3.15652 9.57046,-1.13403 30.34089,-9.01253 30.34089,-9.01253 l 0,-77.08435 -101.93873,-29.36349 c -2.25384,-0.59349 -12.40823,-0.59515 -14.23652,-0.74759 -4.86864,-0.40599 -16.93877,-3.29426 -19.30029,-3.90406 -1.71585,-0.36195 -5.70959,-1.09983 -9.67089,-1.78589 -0.0652,-0.0113 -0.14088,-0.0133 -0.20753,0 z"
+             style="fill:#484848;fill-opacity:1;stroke:#484848;stroke-width:1.37206626;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect10870"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <flowRoot
+         transform="matrix(0.97306022,0,0,0.97306022,-85.050777,415.38888)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+         id="flowRoot4716"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4718"><rect
+             ry="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+             y="215.4971"
+             x="319.30292"
+             height="179.13855"
+             width="473.26083"
+             id="rect4720" /></flowRegion><flowPara
+           id="flowPara4734"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.33222771px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1"><flowSpan
+   id="flowSpan4288"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.13067722px;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold'">When the 3D printer is operational take care to never put your fingers in any moving parts including belts, pulleys, or gears. Tie back long hair or clothing that can get caught in the moving parts of the 3D printer</flowSpan>. </flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.6325987,0,0,1.6325987,-296.19532,245.89896)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+         id="flowRoot4724"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4726"><rect
+             ry="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+             y="215.4971"
+             x="319.30292"
+             height="64.301651"
+             width="584.40527"
+             id="rect4728" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.49235821px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1"
+           id="flowPara4730">Pinch Hazard</flowPara></flowRoot>    </g>
+    <flowRoot
+       transform="matrix(0.6977968,0,0,0.6977968,435.25916,777.99353)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+       id="flowRoot4821"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4823"><rect
+           ry="0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+           y="215.4971"
+           x="319.30292"
+           height="85.756523"
+           width="574.77014"
+           id="rect4825" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.33081913px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1"
+         id="flowPara4829">2016-03-02</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3121"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Outage;font-style:normal;font-weight:bold;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Outage Bold;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3123"><rect
+           id="rect3125"
+           width="78.430824"
+           height="21.475107"
+           x="449.10983"
+           y="429.77982" /></flowRegion><flowPara
+         id="flowPara3127" /></flowRoot>    <g
+       id="g3237"
+       transform="translate(0,6)">
+      <g
+         transform="translate(0,-44)"
+         id="g3201">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4803"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+           transform="matrix(1.0372444,0,0,1.0372444,-247.68676,564.86706)"><flowRegion
+             id="flowRegion4805"><rect
+               id="rect4807"
+               width="581.29742"
+               height="84.668648"
+               x="319.30292"
+               y="215.4971"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+               ry="0" /></flowRegion><flowPara
+             id="flowPara4819"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.25627804px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1">Use the LulzBot TAZ 6 in a well ventilated space.</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4811"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+           transform="matrix(1.7402868,0,0,1.7402868,-472.6244,392.58051)"><flowRegion
+             id="flowRegion4813"><rect
+               id="rect4815"
+               width="584.40527"
+               height="64.301651"
+               x="319.30292"
+               y="215.4971"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+               ry="0" /></flowRegion><flowPara
+             id="flowPara4817"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.774086px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1">Ventilation</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(0,4.9337002)"
+         id="g3227">
+        <flowRoot
+           transform="matrix(1.0372444,0,0,1.0372444,-247.68676,569.00634)"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+           id="flowRoot3130"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3132"><rect
+               ry="0"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+               y="215.4971"
+               x="319.30292"
+               height="85.212585"
+               width="581.29742"
+               id="rect3134" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.25627804px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1"
+             id="flowPara3136">For users under the age of 18, adult supervision is required.</flowPara></flowRoot>        <flowRoot
+           transform="matrix(1.7402868,0,0,1.7402868,-472.6244,396.71979)"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+           id="flowRoot3138"
+           xml:space="preserve"><flowRegion
+             id="flowRegion3140"><rect
+               ry="0"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+               y="215.4971"
+               x="319.30292"
+               height="64.301651"
+               width="584.40527"
+               id="rect3142" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.774086px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1"
+             id="flowPara3144">Age Warning</flowPara></flowRoot>      </g>
+      <flowRoot
+         transform="matrix(1.0372444,0,0,1.0372444,-247.68676,680.07264)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+         id="flowRoot3994"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3996"><rect
+             ry="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+             y="215.4971"
+             x="319.30292"
+             height="85.212585"
+             width="581.29742"
+             id="rect3998" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.53320789px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1"
+           id="flowPara4000"><flowSpan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold'"
+             id="flowSpan4294"><flowSpan
+   style="font-size:13.25627804px"
+   id="flowSpan4296">Never leave the 3D printer unattended</flowSpan>.</flowSpan></flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.7402868,0,0,1.7402868,-472.6244,507.78609)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+         id="flowRoot4002"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4004"><rect
+             ry="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+             y="215.4971"
+             x="319.30292"
+             height="64.301651"
+             width="584.40527"
+             id="rect4006" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.774086px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1"
+           id="flowPara4008">Keep Attended</flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.0372444,0,0,1.0372444,-247.68676,626.53949)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+         id="flowRoot3211"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3213"><rect
+             ry="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+             y="215.4971"
+             x="319.30292"
+             height="85.212585"
+             width="581.29742"
+             id="rect3215" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.25627804px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1"
+           id="flowPara3217">Beware of choking hazards with small components of the 3D printer and 3D printed parts.</flowPara></flowRoot>      <flowRoot
+         transform="matrix(1.7402868,0,0,1.7402868,-472.6244,454.25294)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
+         id="flowRoot3219"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3221"><rect
+             ry="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
+             y="215.4971"
+             x="319.30292"
+             height="64.301651"
+             width="584.40527"
+             id="rect3223" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.774086px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1"
+           id="flowPara3225">Choke Hazard</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-58.099873"
+       y="360.14459"
+       id="text4287"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4289"
+         x="-58.099873"
+         y="360.14459" /></text>
+  </g>
+</svg>

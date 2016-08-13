@@ -1,0 +1,99 @@
+%
+% Advanced.tex
+% Advanced Techniques
+%
+% LulzBot® TAZ User Manual
+%
+% Copyright (C) 2015 Aleph Objects, Inc.
+%
+% This document is licensed under the Creative Commons Attribution 4.0
+% International Public License (CC BY-SA 4.0) by Aleph Objects, Inc.
+%
+%
+
+\section{\texttt{Intro}}
+\index{advanced techniques}
+\glossary{3D Printer}{Also referred to as additive manufacturing, is the process of fabricating objects from 3D model data, through the deposition of a material in accumulative layers.}
+\glossary{Spool}{Plastic filament coiled and stored on a plastic reel. Preferred over 1.75mm filament due to improved feeding and better mounting options.}
+\glossary{Filament}{Plastic material in a ``string'' like form, as it is fed to the printer.}
+\glossary{ABS}{Acrylonitrile butadiene styrene thermoplastic. Usually extrudes at 230°C with the Budaschnozzle and 240°C - 250°C with the LulzBot Hexagon Hot End.}
+\glossary{PLA}{Polylactic acid is a corn-based biodegradable polymer. Usually extrudes at \texttt{185°C} with the Budaschnozzle and \texttt{205°C} with the LulzBot Hexagon Hot End.}
+\glossary{HDPE}{High-density polyethylene.}
+\glossary{Polycarbonate}{A strong and impact-resistant thermoplastic. Usually extrudes at ~\texttt{300°C}.}
+\glossary{HIPS}{High-impact polystyrene. Usually extrudes at \texttt{230°C} with the Budaschnozzle and \texttt{230°C} with the LulzBot Hexagon Hot End}
+\glossary{Laywoo-D3}{Wooden filament similar to PLA. Forty percent of its content consists of recycled wood. Usually prints at ~\texttt{180°C} to \texttt{210°C}. Color can be changed by varying the extrusion temperature.}
+After you become familiar with printing using the default settings, a few advanced techniques may help in getting better and more consistent prints from the LulzBot\textsuperscript{\miniscule{\textregistered}} TAZ 3D printer. Some of these instructions are items and materials not included with the TAZ. With any of these additional items or materials, follow safety and usage guidelines as instructed by the manufacturer.
+
+
+\section{\texttt{Changing nozzles}}
+\index{nozzle}
+\glossary{Nozzle}{The metal tip at the bottom of the hot end. It has a small hole where the plastic filament comes out of the printer.}
+\glossary{Layer height}{The thickness of each individual deposited layer of the three-dimensional model when cut with a slicing program.}
+\index{high resolution}
+\textcolor{red}{Nozzle related issues will not be covered under warranty after nozzle changes}.
+
+Your hot end is equipped with a 0.50mm nozzle. This nozzle diameter will print faster than a 0.35mm nozzle. Purchase a tool head from \texttt{LulzBot.com} with an alternate nozzle diameter for quick, easy, and simple changes.
+
+Due to the specific torque of 30 inch pounds required to tighten the nozzle when removed, removing the nozzle is not recommended. Failure to properly tighten the nozzle to the specific recommended torque may lead to leaks or damage if over-tightened.
+
+
+
+\index{hot end}
+\glossary{Hot end}{The hot end is the whole part where the plastic melts, including the nozzle, heater block, thermistor, and heat sink. The LulzBot Hexagon Hot End comes standard on the TAZ 5.}
+\index{threaded extension}
+\glossary{Threaded extension}{Used to separate the heater block and nozzle from the PEEK insulator. The plastic filament passes through the threaded extension into the melting chamber.}
+%\glossary{PEEK}{Polyether ether ketone: an organic polymer used to insulate the hot end due to its mechanical properties at elevated temperatures.}
+%In most cases the nozzle is best changed when the hot end is slightly warm. NEVER try to remove the nozzle when the hot end is at extrusion temperature. At higher temperatures the threaded extension expands in the nozzle causing the nozzle to bind if turned. Heat the hot end to \texttt{160°C}. This will soften the plastic inside the hot end and allow the nozzle to be loosened off the threaded extension. Power off the printer and before it cools unscrew the nozzle. Take care when removing the nozzle while the hot end is hot. Wear leather gloves or use a towel to turn the nozzle off the hot end.
+
+%\index{wrench}
+%\index{heater block}
+\glossary{Heater block}{Machined from aluminum, the heater block generates heat with a heater resistor and uses a thermistor to measure the temperature.}
+\glossary{Thermistor}{A special type of resistor that changes resistance based on temperature. It is used to measure temperature on the nozzle and the heated bed.}
+\glossary{Heater resistor}{A special type of resistor that is used to apply heat in a small area.}
+%The LulzBot Hexagon does not currently have additional nozzle sizes. If a nozzle change is required you will need to tighten the nozzle to the recommended 30in/lb of torque.
+
+%Prior to any modifications make sure the that printer is unplugged from both the wall and the computer. Use a 7mm wrench to turn the nozzle and a 18mm wrench to hold the heater block. A guide on assembling the LulzBot Hexagon hot end is available at \texttt{http://ohai-kit.alephobjects.com}
+
+%\index{anti-seize}
+%If you will be changing nozzles frequently we suggest reapplying a small amount of high temperature anti-seize compound to the inside threads of the nozzles. You will need an anti-seize capable of temperatures of at least \texttt{250°C}.
+
+\section{\texttt{Bed Adhesion}}
+\index{warping}
+\index{bottle}
+\index{Ninjaflex}
+\index{Nylon}
+\index{brim}
+\index{PEI}
+\index{IPA}
+\index{Isopropyl alcohol}
+You may find that during printing, printed parts lift off the print surface on the corners. If you are seeing this turning on \texttt{Brim} in Cura will help increase the surface area of the print, improving part adhesion. If the corners of the part still lift, clean the PEI surface with IPA/ Isopropyl Alcohol and sand the surface with fine grit (2000-3000) sandpaper.
+
+
+\subsection{\texttt{ABS/Acetone Glue}}
+\label{sec:ABS/Acetone Glue}
+\index{acetone}
+\index{ABS}
+\index{bed adhesion}
+
+\glossary{Acetone}{A colorless, volatile, flammable liquid ketone, (CH3)2CO, used as a solvent for ABS.}
+Acetone is not included or required with the LulzBot TAZ 3D printer. \textcolor{red}{Acetone and ABS solution is NOT recommended anymore, as the PEI print surface works well without it.}
+
+\subsection{\texttt{Glue stick/PVA Glue solution}}
+\label{sec:Glue stick/PVA Glue solution}
+\index{PVA}
+\index{Glue stick}
+\index{bed adhesion}
+\index{Nylon}
+\index{gluestick}
+\glossary{PVA}{Polyvinyl acetate is the main ingrediant in white glue, wood glue and the common school glue stick.} While almost all 3D printing filaments will adhere well to the PEI print surface, Nylon, and Amphora\textsuperscript{\miniscule{\texttrademark}}-based print adhesion can be improved with the application of an unscented PVA glue solution/glue stick. Flexible filaments such as NinjaFlex\textsuperscript{\miniscule{\textregistered}} and SemiFlex\textsuperscript{\miniscule{\texttrademark}} can adhere too well and can be released easier from the PEI print surface with an application of an unscented PVA glue solution/glue stick to the print surface prior to starting the printing process.
+
+%\index{PET sheet}
+%\glossary{PET}{Polyethylene terephthalate.}
+%To apply the acetone/ABS mixture, put a small amount onto a paper towel. Now, rub the towel onto the cool PET print surface to apply a \emph{thin} layer of ABS. Generally only one thin layer of the acetone/ABS solution is needed. However, you can apply multiple coats if needed.
+
+\section{\texttt{Using 1.75mm filament}}
+\index{1.75mm filament}
+%\index{PTFE tube}
+\glossary{PTFE}{Polytetrafluoroethylene is a synthetic fluoropolymer used in the Budaschnozzle for it's low coefficient of friction. This limits the Budaschnozzle top extrusion temperature to 250°C. The LulzBot TAZ 5 and TAZ 6 does not use a hot end with a PTFE insert and can reach a \texttt{300°C} extrusion temperatuere.}
+
+Your LulzBot TAZ 3D printer is set up to use 3mm plastic filament by default and may be capable of printing 1.75mm filament with no hardware modification. While many of our advanced users are able to do so, your results may vary.  More information can be found in our User Forums at: \texttt{https://forum.lulzbot.com/viewtopic.php?f=16\&t=1923} 
