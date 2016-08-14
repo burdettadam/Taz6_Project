@@ -10,6 +10,7 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 #BOM
 | Category |      Part     | seller | Price |
 |----------|:-------------:|------:|-------:|
-| Printed  |               |       |        |
+| Printed  |Y Motor Mount v3.0   |       |        |
 |          |               |       |        |
 |          |               |       |        |
+
