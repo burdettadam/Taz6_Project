@@ -16,24 +16,25 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |Y Mount Chassis v2.5, TAZ   | 4      |       |        |
 |          |[Y belt mount v2.5](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_belt_mount/y_belt_mount_v0.75-x2.stl), TAZ   |   1    |       |        |
 |          |Bed corner ninjaflex v1.0, TAZ   |  4     |       |        |
-|          |Switch mount   |    1   |       |        |
+|          |[Switch mount](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/zmin_switch_mount/zmin_switch_mount_v4.1.stl)   |    1   |       |        |
 |          |Z-lower v0.1, Mangrove left   | 2      |       |        |
 |          |Z Carriage Idler   |    1   |       |        |
 |          |Z Carriage Motor   |    1   |       |        |
-|          |Fan duct right v0.1, TAZ   |1       |       |        |
-|          |Fan duct left v0.1, TAZ   |  1     |       |        |
-|          |Single Bearing Holder for 12mm rod v0.3   | 1      |       |        |
-|          |Double Bearing Holder for 12mm rod v0.3   | 1      |       |        |
+|          |[Fan duct right v0.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/fan_duct_right/fan_duct_right_v0.7.4.1d.stl), TAZ   |1       |       |        |
+|          |[Fan duct left v0.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/fan_duct_left/fan_duct_left_v0.7.4.1d.stl), TAZ   |  1     |       |        |
+|          |[Single Bearing Holder for 12mm rod](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/12mm_single_bearing_holder/12mm_single_bearing_holder_v0.4.stl) v0.3   | 1      |       |        |
+|          |[Double Bearing Holder for 12mm rod](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/12mm_double_bearing_holder/12mm_double_bearing_holder_v0.7.stl) v0.3   | 1      |       |        |
 |          |Dual fan hextruder mount v0.5   | 1      |       |        |
 |          |X-Carriage Guide v2.0, TAZ   | 1      |       |        |
 |          |X-Carriage v2.0, TAZ   |1       |       |        |
 |          |[Wade extruder body for Hex nozzle](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_body_hex/extruder_body_hex_v1.4.1.stl) v1.0   |1       |       |        |
 |          |[Wiper mount](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/wiper_mount/wiper_mount_v1.1.stl) v2.0   |1       |       |        |
-|          |extruder_latch_v2.1   | 1      |       |        |
+|          |[extruder_latch_v2.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_latch/extruder_latch_v2.1.stl)   | 1      |       |        |
 |          |herringbone_small_gear   | 1      |       |        |
 |          |herringbone_large_gear   | 1      |       |        |
-|          |Wade Reloaded Bearing Washer   | 1      |       |        |
-|          |Wade Reloaded Idler Block v1.4, Taz & Mini   | 1      |       |        |
+|          |[Wade Reloaded Bearing Washer](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_washer/extruder_washer_v3.0-x16.stl)   | 1      |       |        |
+|          |[extruder_mount -?](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_mount_taz6/extruder_mount_taz6_v0.8.stl) | 1      |       |        |
+|          |[Wade Reloaded Idler Block](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_idler_block/extruder_idler_block_v1.4c.stl) v1.4, Taz & Mini   | 1      |       |        |
 |          |Feed Tube Spinner v2.5   | 1      |       |        |
 |          |Feed Tube Holder v2.5   | 1      |       |        |
 |          |Spool Arm v2.0, TAZ   | 1      |       |        |
