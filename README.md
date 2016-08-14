@@ -12,8 +12,9 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |----------|:-------------:|------:|------:|-------:|
 | Printed  |[Y Motor Mount v3.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_motor_mount/y_motor_mount_v3.0.stl),TAZ   |    1   |       |        |
 |          |Y Bearing Mount v3.0, TAZ    |  1     |       |        |
-|          |Y mount table v2.5, TAZ   | 4      |       |        |
-|          |Y Mount Chassis v2.5, TAZ   | 4      |       |        |
+|          |[Y mount table v~~2.5~~3.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/bed_mount_table/bed_mount_table_v3.1.stl), TAZ   | 4      |       |        |
+|          |[Y Mount Chassis v~~2.5~~3.3A](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/bed_mount_chassis/bed_mount_chassis_v3.3_A.stl), TAZ   | 4      |       |        |
+|          |[y idler mount v4.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_idler_mount/y_idler_mount_v4.0.stl), TAZ   | 4      |       |        |
 |          |[Y belt mount v2.5](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_belt_mount/y_belt_mount_v0.75-x2.stl), TAZ   |   1    |       |        |
 |          |[y corner left v2.4](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_corner_left/y_corner_left_v2.4.stl), TAZ   | 4      |       |        |
 |          |[y corner right v2.4](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_corner_right/y_corner_right_v2.4.stl), TAZ   | 4      |       |        |
