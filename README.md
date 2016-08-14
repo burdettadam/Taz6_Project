@@ -30,14 +30,14 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |[Wade extruder body for Hex nozzle](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_body_hex/extruder_body_hex_v1.4.1.stl) v1.0   |1       |       |        |
 |          |[Wiper mount](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/wiper_mount/wiper_mount_v1.1.stl) v2.0   |1       |       |        |
 |          |[extruder_latch_v2.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_latch/extruder_latch_v2.1.stl)   | 1      |       |        |
-|          |herringbone_small_gear   | 1      |       |        |
-|          |herringbone_large_gear   | 1      |       |        |
+|          |[herringbone_small_gear](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/herringbone_small_gear/herringbone_small_gear-1.1-highres.stl)   | 1      |       |        |
+|          |[herringbone_large_gear](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/herringbone_large_gear/herringbone_large_gear_v1.3.stl)   | 1      |       |        |
 |          |[Wade Reloaded Bearing Washer](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_washer/extruder_washer_v3.0-x16.stl)   | 1      |       |        |
 |          |[extruder_mount -?](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_mount_taz6/extruder_mount_taz6_v0.8.stl) | 1      |       |        |
 |          |[Wade Reloaded Idler Block](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_idler_block/extruder_idler_block_v1.4c.stl) v1.4, Taz & Mini   | 1      |       |        |
 |          |[Feed Tube Spinner v2.5](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/feed_tube_spinner/feed_tube_spinner_v3.0.stl)   | 1      |       |        |
-|          |Feed Tube Holder v2.5   | 1      |       |        |
-|          |Spool Arm v2.0, TAZ   | 1      |       |        |
+|          |Feed Tube Holder v2.5 -?  | 1      |       |        |
+|          |[Spool Arm v2.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/spool_arm/spool_arm_v0.2-x2.stl), TAZ   | 1      |       |        |
 |          |[heatsink fan duct](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/heatsink_fan/heatsink_fan_duct_v0.6.stl)   | 1      |       |        |
 |          |[Z-Upper](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_upper/z_upper_v2.4.stl) v0.1   |  1     |       |        |
 |          |[LCD_spacer](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/lcd_spacer/lcd_spacer_v0.4.stl)   |  4     |       |        |
