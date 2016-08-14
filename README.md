@@ -35,14 +35,14 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |[Wade Reloaded Bearing Washer](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_washer/extruder_washer_v3.0-x16.stl)   | 1      |       |        |
 |          |[extruder_mount -?](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_mount_taz6/extruder_mount_taz6_v0.8.stl) | 1      |       |        |
 |          |[Wade Reloaded Idler Block](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_idler_block/extruder_idler_block_v1.4c.stl) v1.4, Taz & Mini   | 1      |       |        |
-|          |Feed Tube Spinner v2.5   | 1      |       |        |
+|          |[Feed Tube Spinner v2.5](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/feed_tube_spinner/feed_tube_spinner_v3.0.stl)   | 1      |       |        |
 |          |Feed Tube Holder v2.5   | 1      |       |        |
 |          |Spool Arm v2.0, TAZ   | 1      |       |        |
-|          |heatsink fan duct   | 1      |       |        |
-|          |Z-Upper v0.1   |  1     |       |        |
-|          |LCD_spacer   |  4     |       |        |
-|          |Electronics Case Mount v1.0   | 4      |       |        |
-|          |Interconnect housing v0.1, TAZ   |  1     |       |        |
+|          |[heatsink fan duct](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/heatsink_fan/heatsink_fan_duct_v0.6.stl)   | 1      |       |        |
+|          |[Z-Upper](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_upper/z_upper_v2.4.stl) v0.1   |  1     |       |        |
+|          |[LCD_spacer](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/lcd_spacer/lcd_spacer_v0.4.stl)   |  4     |       |        |
+|          |[Electronics Case Mount v1.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/electronics_case_mount/electronics_case_mount_v2.0.stl)   | 4      |       |        |
+|          |[Interconnect housing v0.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/interconnect_housing/interconnect_housing_v0.6.stl), TAZ   |  1     |       |        |
 |          |               |       |       |        |
 |    Electronic      |               |       |       |        |
 |          |               |       |        |       |
