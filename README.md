@@ -25,8 +25,8 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |[Single Bearing Holder for 12mm rod](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/12mm_single_bearing_holder/12mm_single_bearing_holder_v0.4.stl) v0.3   | 1      |       |        |
 |          |[Double Bearing Holder for 12mm rod](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/12mm_double_bearing_holder/12mm_double_bearing_holder_v0.7.stl) v0.3   | 1      |       |        |
 |          |Dual fan hextruder mount v0.5   | 1      |       |        |
-|          |X-Carriage Guide v2.0, TAZ   | 1      |       |        |
-|          |X-Carriage v2.0, TAZ   |1       |       |        |
+|          |[X-Carriage Guide](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/x_carriage_guide/x_carriage_guide_v2.stl) v2.0, TAZ   | 1      |       |        |
+|          |[X-Carriage](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/x_carriage_taz6/x_carriage_taz6_v0.3.stl) v2.0, TAZ   |1       |       |        |
 |          |[Wade extruder body for Hex nozzle](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_body_hex/extruder_body_hex_v1.4.1.stl) v1.0   |1       |       |        |
 |          |[Wiper mount](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/wiper_mount/wiper_mount_v1.1.stl) v2.0   |1       |       |        |
 |          |[extruder_latch_v2.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_latch/extruder_latch_v2.1.stl)   | 1      |       |        |
