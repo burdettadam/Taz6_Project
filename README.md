@@ -7,3 +7,9 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
     -collect taz 6 source files
     -structure source files
     -created parts list with price total
+#BOM
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
