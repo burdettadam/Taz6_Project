@@ -18,6 +18,8 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |Bed corner ninjaflex v1.0, TAZ   |  4     |       |        |
 |          |[Switch mount](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/zmin_switch_mount/zmin_switch_mount_v4.1.stl)   |    1   |       |        |
 |          |Z-lower v0.1, Mangrove left   | 2      |       |        |
+|          |[Z-lower left](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_lower_left/z_lower_left_v2.5.stl) v2.5  | 2      |       |        |
+|          |[Z-lower right](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_lower_right/z_lower_right_v2.5.stl) v2.5  | 2      |       |        |
 |          |Z Carriage Idler   |    1   |       |        |
 |          |[Z Carriage Motor](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_carriage_motor/z_carriage_motor_v2.10.stl)   |    1   |       |        |
 |          |[Fan duct right v0.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/fan_duct_right/fan_duct_right_v0.7.4.1d.stl), TAZ   |1       |       |        |
