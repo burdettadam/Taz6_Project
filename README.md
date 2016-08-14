@@ -15,6 +15,8 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |Y mount table v2.5, TAZ   | 4      |       |        |
 |          |Y Mount Chassis v2.5, TAZ   | 4      |       |        |
 |          |[Y belt mount v2.5](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_belt_mount/y_belt_mount_v0.75-x2.stl), TAZ   |   1    |       |        |
+|          |[y corner left v2.4](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_corner_left/y_corner_left_v2.4.stl), TAZ   | 4      |       |        |
+|          |[y corner right v2.4](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_corner_right/y_corner_right_v2.4.stl), TAZ   | 4      |       |        |
 |          |Bed corner ninjaflex v1.0, TAZ   |  4     |       |        |
 |          |[Switch mount](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/zmin_switch_mount/zmin_switch_mount_v4.1.stl)   |    1   |       |        |
 |          |~~Z-lower v0.1, Mangrove left~~-?   | 2      |       |        |
@@ -38,7 +40,8 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |[extruder_mount -?](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_mount_taz6/extruder_mount_taz6_v0.8.stl) | 1      |       |        |
 |          |[Wade Reloaded Idler Block](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_idler_block/extruder_idler_block_v1.4c.stl) v1.4, Taz & Mini   | 1      |       |        |
 |          |[Feed Tube Spinner v2.5](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/feed_tube_spinner/feed_tube_spinner_v3.0.stl)   | 1      |       |        |
-|          |Feed Tube Holder v2.5 -?  | 1      |       |        |
+|          |~~Feed Tube Holder v2.5~~ -?  | 1      |       |        |
+|          |[tippy_feed_tube_holder_v0.6](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/tippy_feed_tube_holder/tippy_feed_tube_holder_v0.6.stl) -?damage stl?  | 1      |       |        |
 |          |[Spool Arm v2.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/spool_arm/spool_arm_v0.2-x2.stl), TAZ   | 1      |       |        |
 |          |[heatsink fan duct](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/heatsink_fan/heatsink_fan_duct_v0.6.stl)   | 1      |       |        |
 |          |[Z-Upper](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_upper/z_upper_v2.4.stl) v0.1   |  1     |       |        |
