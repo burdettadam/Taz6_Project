@@ -46,5 +46,5 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |    Electronic      |               |       |       |        |
 |          |               |       |        |       |
 |    Hardware      |               |       |        |
-|          |               |       |       |        |
+|          |               |       |   http://www.aliexpress.com/item/5-Hole-90-Degree-Joint-Board-Plate-Corner-Angle-Bracket-Connection-Joint-Strip-for-Aluminum-Profile/32669228356.html?ws_ab_test=searchweb201556_0,searchweb201602_1_10057_10056_10055_10049_10059_10058_10017_106_105_104_10060_103_10061_102_10062_10064,searchweb201603_1&btsid=93fedafa-1d70-452a-961e-7a9f04ef4315    |        |
 |    Software      |               |       |       |        |
