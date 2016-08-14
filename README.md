@@ -25,9 +25,9 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |Single Bearing Holder for 12mm rod v0.3   | 1      |       |        |
 |          |Double Bearing Holder for 12mm rod v0.3   | 1      |       |        |
 |          |Dual fan hextruder mount v0.5   | 1      |       |        |
-|          |X-Carriage Guidev2.0, TAZ   | 1      |       |        |
+|          |X-Carriage Guide v2.0, TAZ   | 1      |       |        |
 |          |X-Carriage v2.0, TAZ   |1       |       |        |
-|          |Wade extruder body for Hex nozzle v1.0   |1       |       |        |
+|          |[Wade extruder body for Hex nozzle](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_body_hex/extruder_body_hex_v1.4.1.stl) v1.0   |1       |       |        |
 |          |[Wiper mount](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/wiper_mount/wiper_mount_v1.1.stl) v2.0   |1       |       |        |
 |          |extruder_latch_v2.1   | 1      |       |        |
 |          |herringbone_small_gear   | 1      |       |        |
@@ -46,5 +46,5 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |    Electronic      |               |       |       |        |
 |          |               |       |        |       |
 |    Hardware      |               |       |        |
-|          |               |       |   http://www.aliexpress.com/item/5-Hole-90-Degree-Joint-Board-Plate-Corner-Angle-Bracket-Connection-Joint-Strip-for-Aluminum-Profile/32669228356.html?ws_ab_test=searchweb201556_0,searchweb201602_1_10057_10056_10055_10049_10059_10058_10017_106_105_104_10060_103_10061_102_10062_10064,searchweb201603_1&btsid=93fedafa-1d70-452a-961e-7a9f04ef4315    |        |
+|          |               |       |   [aliexpress](http://www.aliexpress.com/item/5-Hole-90-Degree-Joint-Board-Plate-Corner-Angle-Bracket-Connection-Joint-Strip-for-Aluminum-Profile/32669228356.html?ws_ab_test=searchweb201556_0,searchweb201602_1_10057_10056_10055_10049_10059_10058_10017_106_105_104_10060_103_10061_102_10062_10064,searchweb201603_1&btsid=93fedafa-1d70-452a-961e-7a9f04ef4315)    |        |
 |    Software      |               |       |       |        |
