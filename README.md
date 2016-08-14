@@ -10,7 +10,7 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 #BOM
 | Category |      Part     | Quantity |seller | Price |
 |----------|:-------------:|------:|------:|-------:|
-| Printed  |Y Motor Mount v3.0,TAZ   |    1   |       |        |
+| Printed  |[Y Motor Mount v3.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_motor_mount/y_motor_mount_v3.0.stl),TAZ   |    1   |       |        |
 |          |Y Bearing Mount v3.0, TAZ    |  1     |       |        |
 |          |Y mount table v2.5, TAZ   | 4      |       |        |
 |          |Y Mount Chassis v2.5, TAZ   | 4      |       |        |
