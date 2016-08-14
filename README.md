@@ -12,5 +12,8 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |----------|:-------------:|------:|-------:|
 | Printed  |Y Motor Mount v3.0   |       |        |
 |          |               |       |        |
+|    Electronic      |               |       |        |
 |          |               |       |        |
-
+|    Hardware      |               |       |        |
+|          |               |       |        |
+|    Software      |               |       |        |
