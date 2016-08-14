@@ -28,7 +28,7 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |X-Carriage Guidev2.0, TAZ   | 1      |       |        |
 |          |X-Carriage v2.0, TAZ   |1       |       |        |
 |          |Wade extruder body for Hex nozzle v1.0   |1       |       |        |
-|          |Wiper mount v2.0   |1       |       |        |
+|          |[Wiper mount](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/wiper_mount/wiper_mount_v1.1.stl) v2.0   |1       |       |        |
 |          |extruder_latch_v2.1   | 1      |       |        |
 |          |herringbone_small_gear   | 1      |       |        |
 |          |herringbone_large_gear   | 1      |       |        |
