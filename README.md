@@ -14,7 +14,7 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |Y Bearing Mount v3.0, TAZ    |  1     |       |        |
 |          |Y mount table v2.5, TAZ   | 4      |       |        |
 |          |Y Mount Chassis v2.5, TAZ   | 4      |       |        |
-|          |Y belt mount v2.5, TAZ   |   1    |       |        |
+|          |[Y belt mount v2.5](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_belt_mount/y_belt_mount_v0.75-x2.stl), TAZ   |   1    |       |        |
 |          |Bed corner ninjaflex v1.0, TAZ   |  4     |       |        |
 |          |Switch mount   |    1   |       |        |
 |          |Z-lower v0.1, Mangrove left   | 2      |       |        |
