@@ -19,7 +19,7 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |[Switch mount](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/zmin_switch_mount/zmin_switch_mount_v4.1.stl)   |    1   |       |        |
 |          |Z-lower v0.1, Mangrove left   | 2      |       |        |
 |          |Z Carriage Idler   |    1   |       |        |
-|          |Z Carriage Motor   |    1   |       |        |
+|          |[Z Carriage Motor](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_carriage_motor/z_carriage_motor_v2.10.stl)   |    1   |       |        |
 |          |[Fan duct right v0.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/fan_duct_right/fan_duct_right_v0.7.4.1d.stl), TAZ   |1       |       |        |
 |          |[Fan duct left v0.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/fan_duct_left/fan_duct_left_v0.7.4.1d.stl), TAZ   |  1     |       |        |
 |          |[Single Bearing Holder for 12mm rod](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/12mm_single_bearing_holder/12mm_single_bearing_holder_v0.4.stl) v0.3   | 1      |       |        |
