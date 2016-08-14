@@ -4,8 +4,8 @@ Analysis of building a cheap clone of the taz6 3d printer.
 our goal is to analyse LulzBot TAZ 6 (https://www.lulzbot.com/store/printers/lulzbot-taz-6) open source 3d printer to create a cheap clone build by looking at alternative hardware and resulting trade offs.
 all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 #to do
-    -collect taz 6 source files
-    -structure source files
+    ~~-collect taz 6 source files~~
+    ~~-structure source files~~
     -created parts list with price total
 #BOM
 | Category |      Part     | Quantity |seller | Price |
@@ -17,7 +17,7 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |[Y belt mount v2.5](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_belt_mount/y_belt_mount_v0.75-x2.stl), TAZ   |   1    |       |        |
 |          |Bed corner ninjaflex v1.0, TAZ   |  4     |       |        |
 |          |[Switch mount](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/zmin_switch_mount/zmin_switch_mount_v4.1.stl)   |    1   |       |        |
-|          |Z-lower v0.1, Mangrove left   | 2      |       |        |
+|          |~~Z-lower v0.1, Mangrove left~~-?   | 2      |       |        |
 |          |[Z-lower left](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_lower_left/z_lower_left_v2.5.stl) v2.5  | 2      |       |        |
 |          |[Z-lower right](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_lower_right/z_lower_right_v2.5.stl) v2.5  | 2      |       |        |
 |          |Z Carriage Idler   |    1   |       |        |
