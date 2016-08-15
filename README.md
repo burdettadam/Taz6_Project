@@ -11,7 +11,6 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 | Category |      Part     | Quantity |seller | Price |
 |----------|:-------------:|------:|------:|-------:|
 | Printed  |[Y Motor Mount v3.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_motor_mount/y_motor_mount_v3.0.stl),TAZ   |    1   |       |        |
-|          |Y Bearing Mount v3.0, TAZ    |  1     |       |        |
 |          |[Y mount table v~~2.5~~3.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/bed_mount_table/bed_mount_table_v3.1.stl), TAZ   | 4      |       |        |
 |          |[Y Mount Chassis v~~2.5~~3.3A](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/bed_mount_chassis/bed_mount_chassis_v3.3_A.stl), TAZ   | 4      |       |        |
 |          |[y idler mount v4.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_idler_mount/y_idler_mount_v4.0.stl), TAZ   | 4      |       |        |
@@ -21,7 +20,6 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |[Bed corner ninjaflex-? v2.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/bed_corner_taz6/bed_corner_taz6_v2.stl), TAZ   |  4     |       |        |
 |          |[bearing holder v1.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/bearing_holder/bearing_holder_v1.0.stl), TAZ    |  ?     |       |        |
 |          |[zmin switch mount v4.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/zmin_switch_mount/zmin_switch_mount_v4.1.stl)   |    1   |       |        |
-|          |~~Z-lower v0.1, Mangrove left~~-?   | 2      |       |        |
 |          |[Z-lower left](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_lower_left/z_lower_left_v2.5.stl) v2.5  | 2      |       |        |
 |          |[Z-lower right](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_lower_right/z_lower_right_v2.5.stl) v2.5  | 2      |       |        |
 |          |[Z Carriage Idler](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_carriage_idler/z_carriage_idler_v2.9.1.stl)   |    1   |       |        |
