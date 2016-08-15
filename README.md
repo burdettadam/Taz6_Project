@@ -28,7 +28,6 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |[Fan duct left v0.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/fan_duct_left/fan_duct_left_v0.7.4.1d.stl), TAZ   |  1     |       |        |
 |          |[Single Bearing Holder for 12mm rod](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/12mm_single_bearing_holder/12mm_single_bearing_holder_v0.4.stl) v0.3   | 1      |       |        |
 |          |[Double Bearing Holder for 12mm rod](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/12mm_double_bearing_holder/12mm_double_bearing_holder_v0.7.stl) v0.3   | 1      |       |        |
-|          |Dual fan hextruder mount v0.5   | 1      |       |        |
 |          |[X-Carriage Guide](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/x_carriage_guide/x_carriage_guide_v2.stl) v2.0, TAZ   | 1      |       |        |
 |          |[X-Carriage](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/x_carriage_taz6/x_carriage_taz6_v0.3.stl) v2.0, TAZ   |1       |       |        |
 |          |[Wade extruder body for Hex nozzle](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_body_hex/extruder_body_hex_v1.4.1.stl) v1.0   |1       |       |        |
@@ -57,5 +56,66 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |    Electronic      |               |       |       |        |
 |          |               |       |        |       |
 |    Hardware      |               |       |        |
+|          |               |       |        |       |
 |          |               |       |   [aliexpress](http://www.aliexpress.com/item/5-Hole-90-Degree-Joint-Board-Plate-Corner-Angle-Bracket-Connection-Joint-Strip-for-Aluminum-Profile/32669228356.html?ws_ab_test=searchweb201556_0,searchweb201602_1_10057_10056_10055_10049_10059_10058_10017_106_105_104_10060_103_10061_102_10062_10064,searchweb201603_1&btsid=93fedafa-1d70-452a-961e-7a9f04ef4315)    |        |
 |    Software      |               |       |       |        |
+
+#hardware lis cut paste from assemble instructions 
+##Frame Sub Assy
+4x- 500mm Aluminum Extrusion, M5 threaded one end
+4x- 510mm Aluminum Extrusion, ends not threaded
+41x- M5 T-Nut
+32x- M5x10 BHCS
+32x- M5 Washer, Black
+8x- Corner gussets
+
+##Bed Assy Sub
+1x- Z switch mount (PP-GP0216)
+1x- Wiper Mount (PP-GP0231) and Wiper pad
+4x- Bearings Holder (PP-GP0233) (with bearings installed)
+4x- Bed corners (PP-GP0221)
+1x- Y belt mount (PP-GP0222)
+1x- Bed plate
+4x- Bed standoffs
+1x- Momentary switch and retention nut
+2x- SPDT switches
+1x- M3x16 FHCS
+30x- M3x8 BHCS
+4x- M2x10 SHCS
+1x- M3x10
+30x- M3 black washers
+4x- M2 washers
+
+##Y Axis Sub_Edit
+16x- M5x10 BHCS
+16x- M5 Black Washer
+1x- M8x35 BHCS
+4x- M8 Washers
+2x- 608 bearings
+4x- M3x12 BHCS
+4x- M3 Black washers
+4x- M3x6 Set screws
+2x- 500mm aluminum extrusions
+16x- M5 T-Nut
+8x- M5x10 BHCS
+
+##Y axis end plate- Motor side
+4x- M3x 10 BHCS
+4x- M3 Black Washer
+1x- Taz 6 Y Motor Mount (PP-GP0226)
+with 4x- M3 inserts installed
+1x- Y axis End plate
+
+##Idler assembly
+1x- Idler mount (PP-GP0225) (with 4x
+M3 inserts)
+1x- M8 x40 BHCS
+4x- M8 Washer
+1x- M8 Nyloc Nut
+2x- 608 Bearing
+
+##Y Axis Idler end plate Assembly
+4x- M3x 10 BHCS
+4x- M3 Black Washer
+1x- Taz 6 Y Axis Idler Assembly
+1x- Y axis End plate
