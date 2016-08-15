@@ -46,7 +46,7 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |[tippy_feed_tube_holder_v0.6](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/tippy_feed_tube_holder/tippy_feed_tube_holder_v0.6.stl) -?damage stl?  | 1      |       |        |
 |          |[Spool Arm v2.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/spool_arm/spool_arm_v0.2-x2.stl), TAZ   | 1      |       |        |
 |          |[heatsink fan duct](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/heatsink_fan/heatsink_fan_duct_v0.6.stl)   | 1      |       |        |
-|          |[Z-Upper](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_upper/z_upper_v2.4.stl) v0.1   |  1     |       |        |
+|          |[Z-Upper](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_upper/z_upper_v2.4.stl) v2.4   |  1     |       |        |
 |          |[LCD Bezel v1.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/lcd_bezel/lcd_bezel_v1.1.stl)   |  4     |       |        |
 |          |[LCD Knob 0.2 design dent 2](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/lcd_knob/lcd_knob_0.2_design_dent_2.stl)   |  1     |       |        |
 |          |[LCD spacer](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/lcd_spacer/lcd_spacer_v0.4.stl)   |  4     |       |        |
