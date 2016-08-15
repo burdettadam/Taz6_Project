@@ -53,6 +53,8 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |[Sd Card Bezel v0.8](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/sd_card_bezel/sd_card_bezel_v0.8-x10.stl)   |  4     |       |        |
 |          |[Electronics Case Mount v1.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/electronics_case_mount/electronics_case_mount_v2.0.stl)   | 4      |       |        |
 |          |[Interconnect housing v0.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/interconnect_housing/interconnect_housing_v0.6.stl), TAZ   |  1     |       |        |
+|          |[flexy washer v0.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/flexy_washer/flexy_washer_v0.1.stl), TAZ   |  1     |       |        |
+|          |[flexy bed foot v0.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/flexy_bed_foot/flexy_bed_foot_v0.1.stl), TAZ   |  1     |       |        |
 |          |               |       |       |        |
 |    Electronic      |               |       |       |        |
 |          |               |       |        |       |
