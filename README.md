@@ -40,7 +40,7 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |[herringbone_large_gear](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/herringbone_large_gear/herringbone_large_gear_v1.3.stl)   | 1      |       |        |
 |          |[Wade Reloaded Bearing Washer](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_washer/extruder_washer_v3.0-x16.stl)   | 1      |       |        |
 |          |[extruder_mount -?](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_mount_taz6/extruder_mount_taz6_v0.8.stl) | 1      |       |        |
-|          |[Wade Reloaded Idler Block](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_idler_block/extruder_idler_block_v1.4c.stl) v1.4, Taz & Mini   | 1      |       |        |
+|          |[Wade Reloaded Idler Block](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/extruder_idler_block/extruder_idler_block_v1.4c.stl) v1.4, Taz   | 1      |       |        |
 |          |[Feed Tube Spinner v2.5](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/feed_tube_spinner/feed_tube_spinner_v3.0.stl)   | 1      |       |        |
 |          |~~Feed Tube Holder v2.5~~ -?  | 1      |       |        |
 |          |[tippy_feed_tube_holder_v0.6](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/tippy_feed_tube_holder/tippy_feed_tube_holder_v0.6.stl) -?damage stl?  | 1      |       |        |
