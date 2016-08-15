@@ -19,6 +19,7 @@ all source files where taken from http://download.lulzbot.com/TAZ/6.0/.
 |          |[y corner left v2.4](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_corner_left/y_corner_left_v2.4.stl), TAZ   | 4      |       |        |
 |          |[y corner right v2.4](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/y_corner_right/y_corner_right_v2.4.stl), TAZ   | 4      |       |        |
 |          |[Bed corner ninjaflex-? v2.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/bed_corner_taz6/bed_corner_taz6_v2.stl), TAZ   |  4     |       |        |
+|          |[bearing holder v1.0](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/bearing_holder/bearing_holder_v1.0.stl), TAZ    |  ?     |       |        |
 |          |[zmin switch mount v4.1](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/zmin_switch_mount/zmin_switch_mount_v4.1.stl)   |    1   |       |        |
 |          |~~Z-lower v0.1, Mangrove left~~-?   | 2      |       |        |
 |          |[Z-lower left](https://github.com/burdettadam/Taz6_Project/blob/master/production_parts/printed_parts/z_lower_left/z_lower_left_v2.5.stl) v2.5  | 2      |       |        |
